@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+  font-family: Monospace, Arial;
+}
+
+.logo_background {
+  height: 520px;
+  background: #000000 url("logo.png") bottom center no-repeat;
+  background-size: 1000px 487px;
+  padding: 0;
+  margin: 0;
+}
+
+.info_label {
+  font-family: Monospace;
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+
+.time_label {
+  font-size: 14px;
+  font-family: Arial;
+  text-align: center;
+  color: #ffffff;
+}
