@@ -30,5 +30,6 @@ gem 'spring',        group: :development
 group :production do
   gem 'puma'
   gem 'rack-timeout'
+  gem 'rails_12factor'
 end
 
