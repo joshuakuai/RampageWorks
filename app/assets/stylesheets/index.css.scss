@@ -8,7 +8,8 @@ body {
   background: #000000 url("logo.png") bottom center no-repeat;
   background-size: 1000px 487px;
   padding: 0;
-  margin: 0;
+  margin: 0 auto 0 auto;
+  overflow: auto;
 }
 
 .info_label {
